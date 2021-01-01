@@ -1,0 +1,10 @@
+total 20K
+drwxrwxr-x 3 mauricio mauricio 4.0K 12月 26 19:27 .
+drwxrwxr-x 4 mauricio mauricio 4.0K 12月 26 17:12 ..
+-rw-rw-r-- 1 mauricio mauricio 3.5K 12月 26 19:32 apuntes.md
+-rw-rw-r-- 1 mauricio mauricio    0 12月 26 19:33 archivo.txt
+-rw-rw-r-- 1 mauricio mauricio  706 12月 26 19:27 dump1.sql
+drwxrwxr-x 8 mauricio mauricio 4.0K 12月 26 19:24 .git
+apuntes.md
+archivo.txt
+dump1.sql
